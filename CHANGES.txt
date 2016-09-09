@@ -16,6 +16,9 @@ Changelog
 - Ignore headers when finding links in emails.
   [kageurufu]
 
+- Handle quotes in "I click the link with text that contains" step.
+  [kageurufu]
+
 1.5.4 - 2016-05-04
 ------------------
 
